@@ -1,7 +1,7 @@
 ![logo](https://github.com/sivani-l-r/sivani-l-r/blob/main/Sivani%20L%20R.png)
 
 
-<h1 align="center">Hi 👋, I'm Sivani</h1>
+[<h1 align="center">Hi 👋, I'm Sivani</h1>
 <h3 align="center">A passionate coder and computer science student from Kerala.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivani-l-r&label=Profile%20views&color=0e75b6&style=flat" alt="sivani-l-r" /> </p>
@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivani-l-r&show_icons=true&locale=en" alt="sivani-l-r" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivani-l-r&" alt="sivani-l-r" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivani-l-r&" alt="sivani-l-r" /></p>](https://replit.com/@sivani-l-r/Stellar-Survivor-A-PyGame?v=1)https://replit.com/@sivani-l-r/Stellar-Survivor-A-PyGame?v=1
